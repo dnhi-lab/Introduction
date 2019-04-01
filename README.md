@@ -1,5 +1,5 @@
 # Decision Neuroscience of Human Interactions
-## Lab at University Medical Center Hamburg-Eppendorf
+### University Medical Center Hamburg-Eppendorf
 
 
 <p>Social interactions underlie most – if not ultimately all – human achievements. When joining forces, individuals can achieve more than in isolation. However, such cooperative interactions risk exploitation.</p>
